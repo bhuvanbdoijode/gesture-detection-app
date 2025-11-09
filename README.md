@@ -1,3 +1,23 @@
+---
+title: Gesture Detection App
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.28.0"
+app_file: app.py
+pinned: false
+---
+
+# Gesture Detection App
+
+A real-time hand gesture detection app built with **Streamlit**, **OpenCV**, and **MediaPipe**.  
+This app detects hand movements from webcam input and classifies gestures using MediaPipe’s hand-tracking API.
+
+
+
+
+
 # ✋ Gesture Detection AI
 
 A real-time hand gesture detection web application built with **Streamlit**, **Mediapipe**, and **OpenCV**. Detect and classify hand gestures through your webcam with an intuitive, modern interface.
